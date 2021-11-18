@@ -7,7 +7,7 @@
 [![MAIL](https://img.shields.io/static/v1?label=MAIL&message=%20&color=green2&logo=gmail&style=flat-square&logoColor=white)](mailto:hunter.520@qq.com)
 
 👨‍🎓 **About:** 24 Years old Developer from China.  
-👨‍💻 **Languages:** Python,C/C++, Golang, JS, HTML, CSS.  
+👨‍💻 **Languages:** Python,C/C++, Golang, HTML, CSS.  
 🚴‍♀️ **Hobbies:** Cycling, Coding, Open-Source.  
 🏢 **Organizations:** Coder
 
